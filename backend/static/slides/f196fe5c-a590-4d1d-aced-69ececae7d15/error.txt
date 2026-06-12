@@ -1,0 +1,6 @@
+name 'abs_pptx_path' is not defined
+Traceback (most recent call last):
+  File "C:\Myfiles\Playground\Text-to-Speech\backend\main.py", line 69, in upload_ppt
+    with slides.Presentation(abs_pptx_path) as presentation:
+                             ^^^^^^^^^^^^^
+NameError: name 'abs_pptx_path' is not defined

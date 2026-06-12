@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+python-pptx
+azure-cognitiveservices-speech
+python-pptx
+groq
+python-dotenv
+aspose-slides
+sqlalchemy
